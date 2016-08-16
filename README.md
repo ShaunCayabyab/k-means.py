@@ -11,7 +11,7 @@ Since this program executes the clustering algorithm in a serialized pixel-by-pi
 
 Simply exectute `k-means.py` with with the Python execution command, then enter a number between 1 and the number of images in the folder, and the k-value you wish to execute the program with:
 
-```...>python k-means.py
+```python k-means.py
 Enter image number:
 Enter K value:
 ```
